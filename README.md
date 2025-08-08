@@ -12,7 +12,3 @@ This dashboard provides an in-depth analysis of sales, profit margins, payment m
 - Power BI
 - DAX
 - Data Modeling
--
--
-- # Sales-Profit-Dashboard-PowerBI
-"Interactive Sales &amp; Profit Performance Dashboard built using Power BI with visual insights on categories, sub-categories, payment modes, and profit margins."
